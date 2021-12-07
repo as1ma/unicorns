@@ -1,2 +1,2 @@
-# unicorns
-Simple unicorn racing game
+# racing
+Simple racing game
